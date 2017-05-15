@@ -5,6 +5,6 @@ package com.test;
  */
 public class Test02 {
 	int i = 10;
-	int k = 30;
 	int l = 40;
+	int x = 50;
 }
